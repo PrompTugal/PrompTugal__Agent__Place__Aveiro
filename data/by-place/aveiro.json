@@ -508,18 +508,139 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.aveiro@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "ULS da Região de Aveiro reduz em 38,5% número de utentes sem médico de família",
-   "url": "https://www.diarioaveiro.pt/2026/11/25/uls-da-regiao-de-aveiro-reduz-em-385-numero-de-utentes-sem-medico-de-familia/?utm_source=rss&utm_medium=rss&utm_campaign=uls-da-regiao-de-aveiro-reduz-em-385-numero-de-utentes-sem-medico-de-familia",
-   "source": "Diário de Aveiro",
+   "title": "Carolina Deslandes com concertos especiais em Aveiro",
+   "url": "https://megahits.fm/mega-news/18856/carolina-deslandes-com-concertos-especiais-em-aveiro?utm_medium=rss",
+   "source": "Mega Hits Aveiro",
    "date": "2026-11-25",
-   "read_at": "2026-11-26T02:29:09Z",
+   "read_at": "2026-11-26T11:12:24Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Natal em Arouca inicia-se esta sexta-feira",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/natal-em-arouca-inicia-se-esta-sexta-feira/?utm_source=rss&utm_medium=rss&utm_campaign=natal-em-arouca-inicia-se-esta-sexta-feira",
+    "published": "2026-11-26T10:30Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Tentativa de homicídio na Murtosa: Julgamento adiado",
+    "url": "https://www.noticiasdeaveiro.pt/tentativa-de-homicidio-na-murtosa-julgamento-adiado/",
+    "published": "2026-11-26T10:21Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:22Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Mealhada investe 150 mil euros num Natal de luz, animação e prémios",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/mealhada-investe-150-mil-euros-num-natal-de-luz-animacao-e-premios/?utm_source=rss&utm_medium=rss&utm_campaign=mealhada-investe-150-mil-euros-num-natal-de-luz-animacao-e-premios",
+    "published": "2026-11-26T10:15Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "‘Parque da Cidade’ de Albergaria-A-Velha adjudicado",
+    "url": "https://www.noticiasdeaveiro.pt/parque-da-cidade-de-albergaria-a-velha-adjudicado/",
+    "published": "2026-11-26T10:12Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:22Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Escola profissional tem uma queijaria e abre-a ao público",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/escola-profissional-de-vagos-tem-uma-queijaria-e-abre-a-ao-publico/?utm_source=rss&utm_medium=rss&utm_campaign=escola-profissional-de-vagos-tem-uma-queijaria-e-abre-a-ao-publico",
+    "published": "2026-11-26T09:45Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Onze câmaras têm plano para reduzir incêndios",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/onze-camaras-tem-plano-para-reduzir-incendios/?utm_source=rss&utm_medium=rss&utm_campaign=onze-camaras-tem-plano-para-reduzir-incendios",
+    "published": "2026-11-26T09:30Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Habitação entre as prioridades de São João da Madeira",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/habitacao-entre-as-prioridades-de-sao-joao-da-madeira/?utm_source=rss&utm_medium=rss&utm_campaign=habitacao-entre-as-prioridades-de-sao-joao-da-madeira",
+    "published": "2026-11-26T09:15Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "AdRA: Suspensão temporária do abastecimento em Estarreja",
+    "url": "https://www.noticiasdeaveiro.pt/adra-suspensao-temporaria-do-abastecimento-em-estarreja-8/",
+    "published": "2026-11-26T09:10Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:22Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Lançada campanha de angariação de fundos para “salvar” a Lancha Praia da Costa Nova",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/lancada-campanha-de-angariacao-de-fundos-para-salvar-a-lancha-praia-da-costa-nova/?utm_source=rss&utm_medium=rss&utm_campaign=lancada-campanha-de-angariacao-de-fundos-para-salvar-a-lancha-praia-da-costa-nova",
+    "published": "2026-11-26T09:00Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:20Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "São João da Madeira aprova orçamento de 52 milhões de euros para 2027",
+    "url": "https://www.noticiasdeaveiro.pt/sao-joao-da-madeira-aprova-orcamento-de-52-milhoes-de-euros-para-2027/",
+    "published": "2026-11-26T08:51Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:22Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Vagos: Requalificação da Casa Gandaresa de Santo António",
+    "url": "https://www.noticiasdeaveiro.pt/vagos-requalificacao-da-casa-gandaresa-de-santo-antonio/",
+    "published": "2026-11-26T08:47Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-26T11:12:22Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "‘Bairro Natal’ regressa a Oliveira do Bairro",
     "url": "https://www.noticiasdeaveiro.pt/bairro-natal-regressa-a-oliveira-do-bairro/",
@@ -527,196 +648,9 @@
     "source": "Notícias de Aveiro",
     "source_site": "https://www.noticiasdeaveiro.pt",
     "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
+    "read_at": "2026-11-26T11:12:22Z",
     "mentions_place": false,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Portugal fala uma língua sem palavras: a do acolhimento",
-    "url": "https://www.noticiasdeaveiro.pt/portugal-fala-uma-lingua-sem-palavras-a-do-acolhimento/",
-    "published": "2026-11-26T00:08Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Pontes Sonoras apresenta novo espetáculo em Albergaria-A-Velha",
-    "url": "https://www.noticiasdeaveiro.pt/pontes-sonoras-apresenta-novo-espetaculo-em-albergaria-a-velha/",
-    "published": "2026-11-26T00:07Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "PodcastUA (Des)complica: Festivais de outono",
-    "url": "https://www.noticiasdeaveiro.pt/podcastua-descomplica-festivais-de-outono/",
-    "published": "2026-11-26T00:06Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "CTCP apresenta sneaker The Mediterranean em feira internacional de impressão 3D",
-    "url": "https://www.noticiasdeaveiro.pt/ctcp-apresenta-sneaker-the-mediterranean-em-feira-internacional-de-impressao-3d/",
-    "published": "2026-11-26T00:05Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "PS/Ílhavo assegura pacote social para apoiar famílias e classe média",
-    "url": "https://www.noticiasdeaveiro.pt/ps-ilhavo-assegura-pacote-social-para-apoiar-familias-e-classe-media/",
-    "published": "2026-11-26T00:03Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:11Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "A floresta que plantamos na Mealhada e a que deixamos às próximas gerações",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/a-floresta-que-plantamos-na-mealhada-e-a-que-deixamos-as-proximas-geracoes/",
-    "published": "2026-11-25T21:26Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "ULS da Região de Aveiro reduz em 38,5% número de utentes sem médico de família",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/uls-da-regiao-de-aveiro-reduz-em-385-numero-de-utentes-sem-medico-de-familia/?utm_source=rss&utm_medium=rss&utm_campaign=uls-da-regiao-de-aveiro-reduz-em-385-numero-de-utentes-sem-medico-de-familia",
-    "published": "2026-11-25T21:06Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "As 100 maiores empresas de Cantanhede: negócios atingem pela primeira vez mil milhões",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/as-100-maiores-empresas-de-cantanhede-negocios-atingem-pela-primeira-vez-mil-milhoes/",
-    "published": "2026-11-25T20:56Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Subiu o preço do cabaz alimentar",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/subiu-o-preco-do-cabaz-alimentar/?utm_source=rss&utm_medium=rss&utm_campaign=subiu-o-preco-do-cabaz-alimentar",
-    "published": "2026-11-25T20:30Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "O Natal sobe ao castelo e espalha-se pela vila de Montemor-o-Velho",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/o-natal-sobe-ao-castelo-e-espalha-se-pela-vila-de-montemor-o-velho/",
-    "published": "2026-11-25T20:29Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "ANMP desafia os 308 municípios a rumarem a Lisboa em Maio",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/anmp-desafia-os-308-municipios-a-rumarem-a-lisboa-em-maio/",
-    "published": "2026-11-25T19:59Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Jorge Gouveia Monteiro: “É estúpido deixar na gaveta um bom projecto para o Ingote”",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/jorge-gouveia-monteiro-e-estupido-deixar-na-gaveta-um-bom-projecto-para-o-ingote/",
-    "published": "2026-11-25T19:26Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "José Martins: “Fazer cinema fora dos centros de decisão é um trabalho extraordinário”",
-    "url": "https://www.campeaoprovincias.pt/2026/11/25/jose-martins-fazer-cinema-fora-dos-centros-de-decisao-e-um-trabalho-extraordinario/",
-    "published": "2026-11-25T18:57Z",
-    "source": "Campeão das Províncias",
-    "source_site": "https://www.campeaoprovincias.pt",
-    "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T02:29:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Urgências sob pressão: hospitais têm 3.000 camas ocupadas",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas/?utm_source=rss&utm_medium=rss&utm_campaign=urgencias-sob-pressao-hospitais-tem-3-000-camas-ocupadas",
-    "published": "2026-11-25T18:15Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "ANMP reforça colaboração com Governo para ampliar habitação a preços acessíveis",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/anmp-reforca-colaboracao-com-governo-para-ampliar-habitacao-a-precos-acessiveis/?utm_source=rss&utm_medium=rss&utm_campaign=anmp-reforca-colaboracao-com-governo-para-ampliar-habitacao-a-precos-acessiveis",
-    "published": "2026-11-25T17:00Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Concurso de presépios termina esta sexta-feira",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/concurso-de-presepios-termina-esta-sexta-feira/?utm_source=rss&utm_medium=rss&utm_campaign=concurso-de-presepios-termina-esta-sexta-feira",
-    "published": "2026-11-25T16:25Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Vinte municípios do interior da Região Centro superam índice de envelhecimento projetado",
-    "url": "https://www.diarioaveiro.pt/2026/11/25/vinte-municipios-do-interior-da-regiao-centro-superam-indice-de-envelhecimento-projetado/?utm_source=rss&utm_medium=rss&utm_campaign=vinte-municipios-do-interior-da-regiao-centro-superam-indice-de-envelhecimento-projetado",
-    "published": "2026-11-25T16:15Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T02:29:09Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
    },
    {
     "title": "Sporting x Manchester United: uma história de reencontros",
@@ -725,7 +659,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -736,7 +670,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -747,7 +681,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -758,7 +692,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -769,7 +703,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -780,7 +714,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T02:29:14Z",
+    "read_at": "2026-11-26T11:12:24Z",
     "mentions_place": false,
     "date": "2026-11-25"
    }
