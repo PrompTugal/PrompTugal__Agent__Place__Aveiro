@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.aveiro@PrompTugal.dinis",
  "mandate": "PrompTugal.news Aveiro: AI and technology in Aveiro, a university and telecoms city whose centre of gravity is the Universidade de Aveiro, the Instituto de Telecomunicações and the council's Aveiro Tech City push, and what reaches Aveiro from Portugal, Brazil and the world. Independent; every fact sourced.",
  "gravity": {
@@ -508,18 +508,139 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:37Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.aveiro@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Aveiro: GOP e taxa turística na ordem de trabalhos de reunião extraordinária",
-   "url": "https://www.noticiasdeaveiro.pt/aveiro-gop-e-taxa-turistica-na-ordem-de-trabalhos-de-reuniao-extraordinaria/",
+   "title": "PS/Aveiro congratula-se com proposta de requalificação do Hospital de Aveiro",
+   "url": "https://www.noticiasdeaveiro.pt/ps-aveiro-congratula-se-com-proposta-de-requalificacao-do-hospital-de-aveiro/",
    "source": "Notícias de Aveiro",
-   "date": "2026-11-26",
-   "read_at": "2026-11-26T18:27:44Z",
+   "date": "2026-11-27",
+   "read_at": "2026-11-27T07:26:14Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "“Arte”, de Yasmina Reza,  no Centro de Artes de Águeda",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/arte-de-yasmina-reza-no-centro-de-artes-de-agueda/?utm_source=rss&utm_medium=rss&utm_campaign=arte-de-yasmina-reza-no-centro-de-artes-de-agueda",
+    "published": "2026-11-27T01:15Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:12Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Magia do Natal regressa a Estarreja com nova edição do Natalim",
+    "url": "https://www.noticiasdeaveiro.pt/magia-do-natal-regressa-a-estarreja-com-nova-edicao-do-natalim/",
+    "published": "2026-11-27T00:09Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Quando Portugal deu o nome à laranja",
+    "url": "https://www.noticiasdeaveiro.pt/quando-portugal-deu-o-nome-a-laranja/",
+    "published": "2026-11-27T00:08Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Cinema de animação infantil em Ovar",
+    "url": "https://www.noticiasdeaveiro.pt/cinema-de-animacao-infantil-em-ovar/",
+    "published": "2026-11-27T00:07Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Mais curto, mais frio, mais limpo: E-Firing quer repensar a cozedura da porcelana",
+    "url": "https://www.noticiasdeaveiro.pt/mais-curto-mais-frio-mais-limpo-e-firing-quer-repensar-a-cozedura-da-porcelana/",
+    "published": "2026-11-27T00:05Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "PS/Aveiro congratula-se com proposta de requalificação do Hospital de Aveiro",
+    "url": "https://www.noticiasdeaveiro.pt/ps-aveiro-congratula-se-com-proposta-de-requalificacao-do-hospital-de-aveiro/",
+    "published": "2026-11-27T00:05Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Crise financeira no São João de Ver ameaça continuidade do plantel",
+    "url": "https://www.noticiasdeaveiro.pt/crise-financeira-no-sao-joao-de-ver-ameaca-continuidade-do-plantel/",
+    "published": "2026-11-26T21:10Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:14Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Instalações monumentais de Joana Vasconcelos chegam a Valência",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/instalacoes-monumentais-de-joana-vasconcelos-chegam-a-valencia/?utm_source=rss&utm_medium=rss&utm_campaign=instalacoes-monumentais-de-joana-vasconcelos-chegam-a-valencia",
+    "published": "2026-11-26T21:00Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:12Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Governo e sindicatos da Função Pública em negociação em dezembro",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/governo-e-sindicatos-da-funcao-publica-em-negociacao-em-dezembro/?utm_source=rss&utm_medium=rss&utm_campaign=governo-e-sindicatos-da-funcao-publica-em-negociacao-em-dezembro",
+    "published": "2026-11-26T20:00Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:12Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Portugal defronta República Checa, Croácia e Grécia no Europeu de Sub/21",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/portugal-defronta-republica-checa-croacia-e-grecia-no-europeu-de-sub-21/?utm_source=rss&utm_medium=rss&utm_campaign=portugal-defronta-republica-checa-croacia-e-grecia-no-europeu-de-sub-21",
+    "published": "2026-11-26T19:07Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:12Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Debate de urgência sobre medidas do Orçamento marcado para quinta-feira",
+    "url": "https://www.diarioaveiro.pt/2026/11/26/debate-de-urgencia-sobre-medidas-do-orcamento-marcado-para-quinta-feira/?utm_source=rss&utm_medium=rss&utm_campaign=debate-de-urgencia-sobre-medidas-do-orcamento-marcado-para-quinta-feira",
+    "published": "2026-11-26T19:00Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-27T07:26:12Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Trump diz ter pedido a Putin que ponha fim à agressão na Europa",
     "url": "https://www.diarioaveiro.pt/2026/11/26/trump-diz-ter-pedido-a-putin-que-ponha-fim-a-agressao-na-europa/?utm_source=rss&utm_medium=rss&utm_campaign=trump-diz-ter-pedido-a-putin-que-ponha-fim-a-agressao-na-europa",
@@ -527,40 +648,7 @@
     "source": "Diário de Aveiro",
     "source_site": "https://www.diarioaveiro.pt/",
     "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Sindicato dos jogadores admite cenário de rescisões em bloco no São João de Ver",
-    "url": "https://www.diarioaveiro.pt/2026/11/26/sindicato-dos-jogadores-admite-cenario-de-rescisoes-em-bloco-no-sao-joao-de-ver/?utm_source=rss&utm_medium=rss&utm_campaign=sindicato-dos-jogadores-admite-cenario-de-rescisoes-em-bloco-no-sao-joao-de-ver",
-    "published": "2026-11-26T17:46Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Chega pede debate urgente após Governo afastar medidas do OE2027",
-    "url": "https://www.diarioaveiro.pt/2026/11/26/chega-pede-debate-urgente-apos-governo-afastar-medidas-do-oe2027/?utm_source=rss&utm_medium=rss&utm_campaign=chega-pede-debate-urgente-apos-governo-afastar-medidas-do-oe2027",
-    "published": "2026-11-26T17:00Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Mulher de 63 anos detida por danos em veículos em Vagos",
-    "url": "https://www.diarioaveiro.pt/2026/11/26/mulher-de-63-anos-detida-por-danos-em-veiculos-em-vagos/?utm_source=rss&utm_medium=rss&utm_campaign=mulher-de-63-anos-detida-por-danos-em-veiculos-em-vagos",
-    "published": "2026-11-26T16:43Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
+    "read_at": "2026-11-27T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -571,29 +659,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Aveiro: GOP e taxa turística na ordem de trabalhos de reunião extraordinária",
-    "url": "https://www.noticiasdeaveiro.pt/aveiro-gop-e-taxa-turistica-na-ordem-de-trabalhos-de-reuniao-extraordinaria/",
-    "published": "2026-11-26T16:12Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Sete em cada dez jovens LGBTIQ+ sofreram violência ou discriminação na escola",
-    "url": "https://www.diarioaveiro.pt/2026/11/26/sete-em-cada-dez-jovens-lgbtiq-sofreram-violencia-ou-discriminacao-na-escola/?utm_source=rss&utm_medium=rss&utm_campaign=sete-em-cada-dez-jovens-lgbtiq-sofreram-violencia-ou-discriminacao-na-escola",
-    "published": "2026-11-26T16:00Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -604,18 +670,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Dois médicos detetados a usar óculos com inteligência artificial na Prova de Acesso",
-    "url": "https://www.diarioaveiro.pt/2026/11/26/dois-medicos-detetados-a-usar-oculos-com-inteligencia-artificial-na-prova-de-acesso/?utm_source=rss&utm_medium=rss&utm_campaign=dois-medicos-detetados-a-usar-oculos-com-inteligencia-artificial-na-prova-de-acesso",
-    "published": "2026-11-26T15:30Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:42Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -626,7 +681,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -637,7 +692,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -648,7 +703,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -659,18 +714,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-26T18:27:41Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Ex-alunos da UA condenados por tráfico de droga a penas de prisão, que ficaram suspensas",
-    "url": "https://www.noticiasdeaveiro.pt/ex-alunos-da-ua-condenados-por-trafico-de-droga-a-penas-de-prisao-que-ficaram-suspensas/",
-    "published": "2026-11-26T14:48Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
+    "read_at": "2026-11-27T07:26:11Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -681,29 +725,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Sexagenária detida por danificar veículos motorizados em Vagos",
-    "url": "https://www.noticiasdeaveiro.pt/sexagenaria-detida-por-danificar-veiculos-motorizados-em-vagos/",
-    "published": "2026-11-26T13:17Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Águeda recebe Hackathon BIKiNNOV 2026",
-    "url": "https://www.noticiasdeaveiro.pt/agueda-recebe-hackathon-bikinnov-2026/",
-    "published": "2026-11-26T12:59Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -714,7 +736,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -725,29 +747,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Sever do Vouga: Vougapark abre espaço de cowork",
-    "url": "https://www.noticiasdeaveiro.pt/sever-do-vouga-vougapark-abre-espaco-de-cowork/",
-    "published": "2026-11-26T12:22Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Futebol distrital / 1.ª Divisão: ADC Sanguedo e AD Valecambrense isolados na frente",
-    "url": "https://www.noticiasdeaveiro.pt/futebol-distrital-1-a-divisao-adc-sanguedo-e-ad-valecambrense-isolados-na-frente/",
-    "published": "2026-11-26T12:14Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-26T18:27:44Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -758,7 +758,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -769,7 +769,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -780,7 +780,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-26T18:27:47Z",
+    "read_at": "2026-11-27T07:26:16Z",
     "mentions_place": false,
     "date": "2026-11-26"
    }
