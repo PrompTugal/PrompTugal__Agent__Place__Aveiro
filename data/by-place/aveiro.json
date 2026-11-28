@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.aveiro@PrompTugal.dinis",
  "mandate": "PrompTugal.news Aveiro: AI and technology in Aveiro, a university and telecoms city whose centre of gravity is the Universidade de Aveiro, the Instituto de Telecomunicações and the council's Aveiro Tech City push, and what reaches Aveiro from Portugal, Brazil and the world. Independent; every fact sourced.",
  "gravity": {
@@ -508,48 +508,147 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.aveiro@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Orquestra das Beiras estreia concerto em evento a favor da CPCJ de Aveiro",
-   "url": "https://www.noticiasdeaveiro.pt/orquestra-das-beiras-estreia-concerto-em-espetaculo-a-favor-da-cpcj-de-aveiro/",
-   "source": "Notícias de Aveiro",
+   "title": "Plutónio atua em Aveiro na passagem de ano",
+   "url": "https://www.diarioaveiro.pt/2026/11/27/plutonio-atua-em-aveiro-na-passagem-de-ano/?utm_source=rss&utm_medium=rss&utm_campaign=plutonio-atua-em-aveiro-na-passagem-de-ano",
+   "source": "Diário de Aveiro",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:26:43Z",
+   "read_at": "2026-11-28T07:26:15Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "DGS reforça vacinação contra a gripe para proteger grupos vulneráveis",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/dgs-reforca-vacinacao-contra-a-gripe-para-proteger-grupos-vulneraveis/?utm_source=rss&utm_medium=rss&utm_campaign=dgs-reforca-vacinacao-contra-a-gripe-para-proteger-grupos-vulneraveis",
-    "published": "2026-11-27T18:00Z",
+    "title": "Magia do Natal ganha vida em Ovar",
+    "url": "https://www.noticiasdeaveiro.pt/magia-do-natal-ganha-vida-em-ovar/",
+    "published": "2026-11-28T00:09Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Exposição de pintura, desenho e escultura “Infinito Duplamente Simétrico” na UA",
+    "url": "https://www.noticiasdeaveiro.pt/exposicao-de-pintura-desenho-e-escultura-infinito-duplamente-simetrico-na-ua/",
+    "published": "2026-11-28T00:08Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Projeto Floresta Comum contempla Estarreja",
+    "url": "https://www.noticiasdeaveiro.pt/projeto-floresta-comum-contempla-estarreja/",
+    "published": "2026-11-28T00:05Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Lactogal tem aprovado investimento de 4,43 milhões de euros em Oliveira de Azeméis",
+    "url": "https://www.noticiasdeaveiro.pt/lactogal-tem-aprovado-investimento-de-443-milhoes-de-euros-em-oliveira-de-azemeis/",
+    "published": "2026-11-28T00:05Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Podcast ‘Aqui Entre Nós’  apresenta “O Centro à Mesa – Beira Baixa”,",
+    "url": "https://www.noticiasdeaveiro.pt/podcast-aqui-entre-nos-apresenta-o-centro-a-mesa-beira-baixa/",
+    "published": "2026-11-28T00:05Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Sinais dos tempos",
+    "url": "https://www.noticiasdeaveiro.pt/sinais-dos-tempos/",
+    "published": "2026-11-28T00:04Z",
+    "source": "Notícias de Aveiro",
+    "source_site": "https://www.noticiasdeaveiro.pt",
+    "feed": "https://www.noticiasdeaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:17Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Mortes por sarampo diminuem 91% em 25 anos, mas perda do estatuto de eliminação preocupa OMS",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms/?utm_source=rss&utm_medium=rss&utm_campaign=mortes-por-sarampo-diminuem-91-em-25-anos-mas-perda-do-estatuto-de-eliminacao-preocupa-oms",
+    "published": "2026-11-27T21:01Z",
     "source": "Diário de Aveiro",
     "source_site": "https://www.diarioaveiro.pt/",
     "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
+    "read_at": "2026-11-28T07:26:15Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Orquestra das Beiras estreia concerto em evento a favor da CPCJ de Aveiro",
-    "url": "https://www.noticiasdeaveiro.pt/orquestra-das-beiras-estreia-concerto-em-espetaculo-a-favor-da-cpcj-de-aveiro/",
-    "published": "2026-11-27T17:24Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
+    "title": "Feirense derrotado em casa pelo Portimonense",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/feirense-derrotado-em-casa-pelo-portimonense/?utm_source=rss&utm_medium=rss&utm_campaign=feirense-derrotado-em-casa-pelo-portimonense",
+    "published": "2026-11-27T20:49Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:15Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Preços do gasóleo e gasolina deverão descer na próxima semana",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/precos-do-gasoleo-e-gasolina-deverao-descer-na-proxima-semana/?utm_source=rss&utm_medium=rss&utm_campaign=precos-do-gasoleo-e-gasolina-deverao-descer-na-proxima-semana",
+    "published": "2026-11-27T20:30Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:15Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Plutónio atua em Aveiro na passagem de ano",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/plutonio-atua-em-aveiro-na-passagem-de-ano/?utm_source=rss&utm_medium=rss&utm_campaign=plutonio-atua-em-aveiro-na-passagem-de-ano",
+    "published": "2026-11-27T19:54Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:15Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
    {
-    "title": "Murtosa: PS votou contra proposta de impostos municipais",
-    "url": "https://www.noticiasdeaveiro.pt/murtosa-ps-votou-contra-proposta-de-impostos-municipais/",
-    "published": "2026-11-27T17:14Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
+    "title": "Bezerros capturados dentro de carro pela polícia",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/bezerros-capturados-dentro-de-carro-pela-policia/?utm_source=rss&utm_medium=rss&utm_campaign=bezerros-capturados-dentro-de-carro-pela-policia",
+    "published": "2026-11-27T19:15Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:15Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Quase um milhão de pessoas sofre de Doença Pulmonar Obstrutiva Crónica",
+    "url": "https://www.diarioaveiro.pt/2026/11/27/quase-um-milhao-de-pessoas-sofre-de-doenca-pulmonar-obstrutiva-cronica/?utm_source=rss&utm_medium=rss&utm_campaign=quase-um-milhao-de-pessoas-sofre-de-doenca-pulmonar-obstrutiva-cronica",
+    "published": "2026-11-27T19:00Z",
+    "source": "Diário de Aveiro",
+    "source_site": "https://www.diarioaveiro.pt/",
+    "feed": "https://www.diarioaveiro.pt/feed/",
+    "read_at": "2026-11-28T07:26:15Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -560,19 +659,8 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Ex-advogado julgado em Aveiro por burla na venda de apartamentos",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/ex-advogado-julgado-em-aveiro-por-burla-qualificada/?utm_source=rss&utm_medium=rss&utm_campaign=ex-advogado-julgado-em-aveiro-por-burla-qualificada",
-    "published": "2026-11-27T16:54Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
-    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -582,63 +670,8 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Municípios querem estudo de impacto em toda a ria",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/municipios-querem-estudo-de-impacto-em-toda-a-ria/?utm_source=rss&utm_medium=rss&utm_campaign=municipios-querem-estudo-de-impacto-em-toda-a-ria",
-    "published": "2026-11-27T16:30Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "PS de Estarreja congratula-se com investimento da LEGO, mas deixa alertas",
-    "url": "https://www.noticiasdeaveiro.pt/ps-de-estarreja-congratula-se-com-investimento-da-lego-mas-deixa-alertas/",
-    "published": "2026-11-27T16:11Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Governo propõe mestrado único para habilitar novos professores",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/governo-propoe-mestrado-unico-para-habilitar-novos-professores/?utm_source=rss&utm_medium=rss&utm_campaign=governo-propoe-mestrado-unico-para-habilitar-novos-professores",
-    "published": "2026-11-27T16:00Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Porque é que as empresas brasileiras estão a integrar criptomoedas nos seus serviços",
-    "url": "https://www.noticiasdeaveiro.pt/porque-e-que-as-empresas-brasileiras-estao-a-integrar-criptomoedas-nos-seus-servicos/",
-    "published": "2026-11-27T15:50Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Civilria RunClub São Silvestre de Aveiro provoca cortes e condicionamentos de trânsito",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/civilria-runclub-sao-silvestre-de-aveiro-provoca-cortes-e-condicionamentos-de-transito/?utm_source=rss&utm_medium=rss&utm_campaign=civilria-runclub-sao-silvestre-de-aveiro-provoca-cortes-e-condicionamentos-de-transito",
-    "published": "2026-11-27T15:39Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
-    "mentions_place": true,
     "date": "2026-11-27"
    },
    {
@@ -648,18 +681,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "São João da Madeira incentiva o pensamento crítico",
-    "url": "https://www.diarioaveiro.pt/2026/11/27/sao-joao-da-madeira-incentiva-o-pensamento-critico/?utm_source=rss&utm_medium=rss&utm_campaign=sao-joao-da-madeira-incentiva-o-pensamento-critico",
-    "published": "2026-11-27T15:22Z",
-    "source": "Diário de Aveiro",
-    "source_site": "https://www.diarioaveiro.pt/",
-    "feed": "https://www.diarioaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:41Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -670,7 +692,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -681,7 +703,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -692,7 +714,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -703,7 +725,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -714,18 +736,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Águeda acolhe Jornadas Internacionais de Turismo e afirma-se como referência na valorização dos territórios",
-    "url": "https://www.noticiasdeaveiro.pt/agueda-acolhe-jornadas-internacionais-de-turismo-e-afirma-se-como-referencia-na-valorizacao-dos-territorios/",
-    "published": "2026-11-27T13:02Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -736,7 +747,7 @@
     "source": "Campeão das Províncias",
     "source_site": "https://www.campeaoprovincias.pt",
     "feed": "https://www.campeaoprovincias.pt/rss",
-    "read_at": "2026-11-27T18:26:39Z",
+    "read_at": "2026-11-28T07:26:14Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -747,7 +758,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -758,7 +769,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -769,18 +780,7 @@
     "source": "Mega Hits Aveiro",
     "source_site": "https://megahits.fm/",
     "feed": "https://megahits.fm/rssfeed",
-    "read_at": "2026-11-27T18:26:46Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Câmara de Vale de Cambra preserva espigueiros antigos",
-    "url": "https://www.noticiasdeaveiro.pt/camara-de-vale-de-cambra-preserva-espigueiros-antigos/",
-    "published": "2026-11-27T11:03Z",
-    "source": "Notícias de Aveiro",
-    "source_site": "https://www.noticiasdeaveiro.pt",
-    "feed": "https://www.noticiasdeaveiro.pt/feed/",
-    "read_at": "2026-11-27T18:26:43Z",
+    "read_at": "2026-11-28T07:26:19Z",
     "mentions_place": false,
     "date": "2026-11-27"
    }
